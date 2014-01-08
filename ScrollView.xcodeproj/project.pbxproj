@@ -21,6 +21,7 @@
 		00AFBD5B187CD95E00DD878F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AFBD3D187CD95E00DD878F /* UIKit.framework */; };
 		00AFBD63187CD95E00DD878F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBD61187CD95E00DD878F /* InfoPlist.strings */; };
 		00AFBD65187CD95E00DD878F /* ScrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AFBD64187CD95E00DD878F /* ScrollViewTests.m */; };
+		00AFBD6F187CDAE100DD878F /* snsd5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBD6E187CDAE100DD878F /* snsd5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AFBD60187CD95E00DD878F /* ScrollViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ScrollViewTests-Info.plist"; sourceTree = "<group>"; };
 		00AFBD62187CD95E00DD878F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AFBD64187CD95E00DD878F /* ScrollViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollViewTests.m; sourceTree = "<group>"; };
+		00AFBD6E187CDAE100DD878F /* snsd5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snsd5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				00AFBD4B187CD95E00DD878F /* Main.storyboard */,
 				00AFBD4E187CD95E00DD878F /* ViewController.h */,
 				00AFBD4F187CD95E00DD878F /* ViewController.m */,
+				00AFBD6E187CDAE100DD878F /* snsd5.jpg */,
 				00AFBD51187CD95E00DD878F /* Images.xcassets */,
 				00AFBD40187CD95E00DD878F /* Supporting Files */,
 			);
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00AFBD52187CD95E00DD878F /* Images.xcassets in Resources */,
+				00AFBD6F187CDAE100DD878F /* snsd5.jpg in Resources */,
 				00AFBD44187CD95E00DD878F /* InfoPlist.strings in Resources */,
 				00AFBD4D187CD95E00DD878F /* Main.storyboard in Resources */,
 			);
